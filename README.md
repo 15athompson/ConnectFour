@@ -1,15 +1,6 @@
-Connect Four
-==============
+# Connect4-Python
+Connect 4 programmed in python using pygame.
 
+Video walkthrough on programming this game: https://youtu.be/UYgyRArKDEs
 
-Usage
-------------
-
-Run Command:
-
-	python Connect4Client.py
-
-	Enter a number representing the difficulty of the AI.
-	- Larger Number = Better AI Score/Worse Human Score
-	- Smaller Number = Worse AI Score/Better Human Score
-
+Video walkthrough on programming the AI: https://youtu.be/MMLtza3CZFM
